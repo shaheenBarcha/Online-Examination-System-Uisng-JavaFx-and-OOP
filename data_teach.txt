@@ -1,0 +1,27 @@
+Name: teacher
+Username: teacher
+Password: 123
+Mobile No: 123
+Gender: Female
+Courses: PST MVC OOP 
+Shifts: 8:30-11:00
+Account Creation Date: 
+2019-04-01
+Name: xyz
+Username: xyz
+Password: 123
+Mobile No: 12345
+Gender: Male
+Courses: PST MVC OOP 
+Shifts: 8:30-11:00
+Account Creation Date: 
+2020-07-28
+Name: teacher
+Username: t
+Password: 123
+Mobile No: 035455
+Gender: Female
+Courses: PST 
+Shifts: 11:10-12:40
+Account Creation Date: 
+2020-09-15

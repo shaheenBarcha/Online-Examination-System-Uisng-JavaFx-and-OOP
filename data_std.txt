@@ -1,0 +1,36 @@
+Name: student
+Username: student
+Password: 123
+Mobile No: 123
+Gender: Male
+Courses: PST MVC OOP 
+Shifts: 8:30-11:00
+Account Creation Date: 
+2019-04-01
+Name: asd
+Username: asdf
+Password: 1234
+Mobile No: 3454342
+Gender: Male
+Courses: MVC OOP 
+Shifts: 8:30-11:00
+Account Creation Date: 
+2019-04-01
+Name: abc
+Username: abc
+Password: 123
+Mobile No: 123456
+Gender: Male
+Courses: PST MVC OOP 
+Shifts: 8:30-11:00
+Account Creation Date: 
+2020-07-28
+Name: abc
+Username: 123
+Password: 123
+Mobile No: 0345
+Gender: Male
+Courses: MVC 
+Shifts: 8:30-11:00
+Account Creation Date: 
+2020-09-03
